@@ -1,6 +1,6 @@
 # NN
 Neural network development and use.
 
-Neural network in Python with flexible numbers of nodes and layers.
+Neural network in standard Python with flexible numbers of nodes and layers.
 Developed on from Loy originally.
-Needs only the numpy import which for example comes with the popular Anaconda distribution of Python.
+Needs only the numpy import - which comes for example with the popular Anaconda distribution of Python.
